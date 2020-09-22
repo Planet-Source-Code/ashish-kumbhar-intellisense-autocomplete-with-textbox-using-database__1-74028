@@ -1,0 +1,6 @@
+[History]
+1=#P0#=mb	#P1#=txtCountry_Change	#P2#=AniXIntelliSense/frmIntelliSense/txtCountry_Change	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20110805150627	#P7#=0	#P8#=0	.
+2=#P0#=mb	#P1#=Form_Load	#P2#=AniXIntelliSense/frmIntelliSense/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20110805150607	#P7#=0	#P8#=0	.
+3=#P0#=mb	#P1#=txtMonths_Change	#P2#=AniXIntelliSense/frmIntelliSense/txtMonths_Change	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20110805124814	#P7#=0	#P8#=1	.
+4=#P0#=mb	#P1#=IntelliSense	#P2#=AniXIntelliSense/mdlIntelliSense/IntelliSense	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20110805154409	#P7#=0	#P8#=14	.
+5=#P0#=mb	#P1#=CheckKey	#P2#=AniXIntelliSense/mdlIntelliSense/CheckKey	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20110805123921	#P7#=0	#P8#=0	.
